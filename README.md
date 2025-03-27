@@ -19,10 +19,9 @@ Falta algum recurso e tive que me virar com isso.
 
 -- Imagens do desafio.
 
-![Dashboard pag1](https://github.com/user-attachments/assets/3cdd393f-cea3-46be-858c-7eac28de0fd5)
-![Dashboard pag3](https://github.com/user-attachments/assets/bc8a14b2-75f3-4af7-91c3-b09b0a9436eb)
-![Dashboard pag2](https://github.com/user-attachments/assets/01686986-8eef-4809-bb7f-9aae0d156909)
-
+![Dashboard pag2](https://github.com/user-attachments/assets/aedfefeb-3e23-48d6-be36-72257f04f56a)
+![Dashboard pag1](https://github.com/user-attachments/assets/c1bddc30-5a1d-4980-9d77-deadfb51e4ed)
+![Dashboard pag3](https://github.com/user-attachments/assets/21b025b4-842f-4f37-a808-e6b3d92f7227)
 
 -- Base de dados do excel.
 
